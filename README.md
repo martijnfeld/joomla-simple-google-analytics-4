@@ -6,7 +6,7 @@ It has an option to anonymize IP addresses to comply with European privacy laws.
 Works with Joomla! 2.5 and Joomla! 3+
 
 ## Official page
-<a href="http://danieledesantis.github.io/joomla-simple-google-analytics/" title="Joomla! Simple Google Analytics" target="_blank"><strong>http://danieledesantis.github.io/joomla-simple-google-analytics/</a>
+<a href="http://danieledesantis.github.io/joomla-simple-google-analytics/" title="Joomla! Simple Google Analytics" target="_blank"><strong>http://danieledesantis.github.io/joomla-simple-google-analytics/</strong></a>
 
 ## Installation
 1. Download the plugin
