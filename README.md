@@ -1,7 +1,7 @@
 # Joomla! Simple Google Analytics
 Simple Google Analytics is a Joomla! plugin which allows you to add Google Analytics tracking code to your Joomla! website.
 
-It has an option to anonymize IP addresses to comply with European privacy laws.
+It has an option to anonymize IP addresses to help you to comply with European privacy laws.
 
 Works with Joomla! 2.5 and Joomla! 3+
 
